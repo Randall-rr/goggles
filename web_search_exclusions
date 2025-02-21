@@ -1,0 +1,7 @@
+! name: web_search_exclusions
+! description: Exclusions
+! public: false
+! author: Randall
+
+$discard,site=bol.com
+$discard,site=marktplaats.nl
