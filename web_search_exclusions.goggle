@@ -4,3 +4,6 @@
 ! author: Randall
 
 $discard,site=marktplaats.nl
+$discard,site=wehkamp.nl
+$discard,site=kieskeurig.nl
+$discard,site=beslist.nl
