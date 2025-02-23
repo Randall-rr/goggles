@@ -1,7 +1,7 @@
 ! name: Webshops
 ! description: Webshops
 ! author: Randall
-! version: 1.0
+! public: false
 
 ! Allow only .nl domains and bol.com
 $site=*.nl
