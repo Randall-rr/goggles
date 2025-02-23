@@ -4,8 +4,7 @@
 ! public: false
 
 ! Allow only .nl domains and bol.com
-$site=.nl
-$site=bol.com
+.nl$inurl
 
 ! Exclude specific marketplace and comparison sites
 $discard,site=marktplaats.nl
