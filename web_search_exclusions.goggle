@@ -3,8 +3,6 @@
 ! author: Randall
 ! public: false
 
-$boost=3,site=bol.com
-
 ! Exclude specific marketplace and comparison sites
 $discard,site=marktplaats.nl
 $discard,site=wehkamp.nl
